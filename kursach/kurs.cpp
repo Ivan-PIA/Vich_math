@@ -48,7 +48,7 @@ double function_d(double I) {
 }
 
 void euler_method(double t0, double T, double h) {
-    FILE *out = fopen("out.txt", "w"); // Открываем файл out.txt на запись
+    FILE *out = fopen("text.txt", "w"); // Открываем файл out.txt на запись
     int n = (T - t0) / h + 1; // Количество промежутков
     double *S = new double[n]; // Восприимчивые (незараженные) индивидуумы c 3 лет;
     double *E = new double[n]; // Зараженные или находящиеся в инкубационном периоде индивидуумы;
