@@ -6,25 +6,25 @@
 
 Система уравнений: 
 
-[![Build Status](https://raw.githubusercontent.com/Ivan-PIA/Vich_math/main/kursach/2023-05-03_15-29-57.png)]
+![Build Status](https://raw.githubusercontent.com/Ivan-PIA/Vich_math/main/kursach/2023-05-03_15-29-57.png)
 
 Коэффициенты:
 
-[![Build Status](https://raw.githubusercontent.com/Ivan-PIA/Vich_math/main/kursach/l_-ciCwb4tA.jpg)]
+![Build Status](https://raw.githubusercontent.com/Ivan-PIA/Vich_math/main/kursach/l_-ciCwb4tA.jpg)
 
 
 ## Результаты:
 
-[![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D0%B2%D1%81%D1%8F%20%D0%BF%D0%BE%D0%BF.png)]
+![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D0%B2%D1%81%D1%8F%20%D0%BF%D0%BE%D0%BF.png)
 
-[![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B7.png)]
+![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D0%BD%D0%B5%D0%B7%D0%B0%D1%80%D0%B0%D0%B7.png)
 
-[![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D0%B7%D0%B0%D1%80%D0%B0%D0%B7.png)]
+![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D0%B7%D0%B0%D1%80%D0%B0%D0%B7.png)
 
-[![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D0%BC.png)]
+![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D1%81%D0%B8%D0%BC%D0%BF%D1%82%D0%BE%D0%BC.png)
 
-[![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D0%B2%D1%8B%D0%BB%D0%B5%D1%87%D0%B5%D0%BD.png)]
+![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D0%B2%D1%8B%D0%BB%D0%B5%D1%87%D0%B5%D0%BD.png)
 
-[![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D1%83%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5.png)]
+![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/kursach/%D1%83%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5.png)
 
 
