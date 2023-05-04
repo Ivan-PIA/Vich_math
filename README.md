@@ -6,3 +6,8 @@
 ## Интегриравание 
 
 ![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/integral.png)
+
+
+## Интерполяция Ньютон
+
+![Build Status](https://github.com/Ivan-PIA/Vich_math/blob/main/int_n.png)
