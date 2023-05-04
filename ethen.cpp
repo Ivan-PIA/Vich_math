@@ -7,7 +7,7 @@
 using namespace std;
 
 int k = 0;
-int i, j, n = 4, l;
+int i, j, n = 6, l;
 double xmas[25],p[25], p1[25], p2[25], x, t, y[100], h = 1;
 
 double func(double t) {

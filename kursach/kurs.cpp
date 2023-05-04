@@ -47,7 +47,7 @@ double function_d(double I) {
     return mu * I;
 }
 
-void euler_method(double t0, double T, double h) {
+void euler(double t0, double T, double h) {
     FILE *out = fopen("text.txt", "w"); // Открываем файл out.txt на запись
     int n = (T - t0) / h + 1; // Количество промежутков
     double *S = new double[n]; // Восприимчивые (незараженные) индивидуумы c 3 лет;
@@ -101,7 +101,7 @@ int main() {
     cout << "Входные данные: t0 = " << t0 << ", T = " << T << ", h = " << h << endl;
     
 
-    euler_method(t0, T, h);
+    euler(t0, T, h);
     
     return 0;
 }
